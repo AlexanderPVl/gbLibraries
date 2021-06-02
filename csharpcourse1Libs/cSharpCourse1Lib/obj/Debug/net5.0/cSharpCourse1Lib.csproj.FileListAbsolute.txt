@@ -1,0 +1,12 @@
+/home/lex/programming/geekbrains/userLbraries/csharpcourse1Libs/cSharpCourse1Lib/bin/Debug/net5.0/cSharpCourse1Lib.deps.json
+/home/lex/programming/geekbrains/userLbraries/csharpcourse1Libs/cSharpCourse1Lib/bin/Debug/net5.0/cSharpCourse1Lib.dll
+/home/lex/programming/geekbrains/userLbraries/csharpcourse1Libs/cSharpCourse1Lib/bin/Debug/net5.0/ref/cSharpCourse1Lib.dll
+/home/lex/programming/geekbrains/userLbraries/csharpcourse1Libs/cSharpCourse1Lib/bin/Debug/net5.0/cSharpCourse1Lib.pdb
+/home/lex/programming/geekbrains/userLbraries/csharpcourse1Libs/cSharpCourse1Lib/obj/Debug/net5.0/cSharpCourse1Lib.csprojAssemblyReference.cache
+/home/lex/programming/geekbrains/userLbraries/csharpcourse1Libs/cSharpCourse1Lib/obj/Debug/net5.0/cSharpCourse1Lib.GeneratedMSBuildEditorConfig.editorconfig
+/home/lex/programming/geekbrains/userLbraries/csharpcourse1Libs/cSharpCourse1Lib/obj/Debug/net5.0/cSharpCourse1Lib.AssemblyInfoInputs.cache
+/home/lex/programming/geekbrains/userLbraries/csharpcourse1Libs/cSharpCourse1Lib/obj/Debug/net5.0/cSharpCourse1Lib.AssemblyInfo.cs
+/home/lex/programming/geekbrains/userLbraries/csharpcourse1Libs/cSharpCourse1Lib/obj/Debug/net5.0/cSharpCourse1Lib.csproj.CoreCompileInputs.cache
+/home/lex/programming/geekbrains/userLbraries/csharpcourse1Libs/cSharpCourse1Lib/obj/Debug/net5.0/cSharpCourse1Lib.dll
+/home/lex/programming/geekbrains/userLbraries/csharpcourse1Libs/cSharpCourse1Lib/obj/Debug/net5.0/ref/cSharpCourse1Lib.dll
+/home/lex/programming/geekbrains/userLbraries/csharpcourse1Libs/cSharpCourse1Lib/obj/Debug/net5.0/cSharpCourse1Lib.pdb
